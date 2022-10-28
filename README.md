@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+#### [Python projects](https://github.com/dodoturkoz/python-projects)
+
+asdfasdf sadf asdf sad fs f asdf a sf 
+
+#### [java projects]()
+
+asdfasdf sadf asdf sad fs f asdf a sf 
+
+
+
 <!--
 **dodoturkoz/dodoturkoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
