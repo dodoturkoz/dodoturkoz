@@ -1,12 +1,14 @@
 #### [Python projects](https://github.com/dodoturkoz/python-projects)
 
-asdfasdf sadf asdf sad fs f asdf a sf 
+Jupyter Notebooks that include practical applications of differential equations for simulations, machine-learning, data analysis, and finance.
 
-#### [Java projects]()
+#### [Java projects](https://github.com/dodoturkoz/java-projects)
 
-asdfasdf sadf asdf sad fs f asdf a sf 
+Investigating seemingly abstract mathematical concepts via Java.
 
+#### [Animation projects](https://github.com/dodoturkoz/animations)
 
+Creating mathematical animations using the Manim library in Python.
 
 <!--
 **dodoturkoz/dodoturkoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
