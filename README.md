@@ -1,10 +1,8 @@
-### Hi there 👋
-
 #### [Python projects](https://github.com/dodoturkoz/python-projects)
 
 asdfasdf sadf asdf sad fs f asdf a sf 
 
-#### [java projects]()
+#### [Java projects]()
 
 asdfasdf sadf asdf sad fs f asdf a sf 
 
