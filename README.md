@@ -1,6 +1,6 @@
 #### [Python projects](https://github.com/dodoturkoz/python-projects)
 
-Jupyter Notebooks that include practical applications of differential equations for simulations, machine-learning, data analysis, and finance.
+Jupyter Notebooks that include practical applications of machine-learning, data analysis, and simulations.
 
 #### [Java projects](https://github.com/dodoturkoz/java-projects)
 
