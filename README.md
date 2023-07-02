@@ -2,6 +2,8 @@
 
 Jupyter Notebooks that include practical applications of machine-learning, data analysis, and simulations.
 
+#### [Tableau projects]()
+
 #### [Java projects](https://github.com/dodoturkoz/java-projects)
 
 Investigating seemingly abstract mathematical concepts via Java.
