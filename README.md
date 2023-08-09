@@ -2,10 +2,6 @@
 
 Jupyter Notebooks that include practical applications of machine-learning, data analysis, and simulations.
 
-#### [Animation projects](https://github.com/dodoturkoz/animations)
-
-Creating mathematical animations using the Manim library in Python.
-
 <!--
 **dodoturkoz/dodoturkoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
