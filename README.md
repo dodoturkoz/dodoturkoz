@@ -2,6 +2,10 @@
 
 Jupyter Notebooks that include practical applications of machine-learning, data analysis, and simulations.
 
+#### [Java projects](https://github.com/dodoturkoz/java-projects)
+
+Projects on fractal generation using root finding methods and numerical experiments on random matrix theory. 
+
 <!--
 **dodoturkoz/dodoturkoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
