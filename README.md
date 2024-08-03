@@ -1,3 +1,4 @@
+<!--
 #### [Python Data Science Projects](https://github.com/dodoturkoz/python-projects)
 
 Jupyter Notebooks that include practical applications of machine-learning, data analysis, and simulations.
@@ -10,7 +11,6 @@ Lean 4 formalisations of several problems and solutions from the book [102 Combi
 
 Projects on fractal generation using root finding methods and numerical experiments on random matrix theory. 
 
-<!--
 **dodoturkoz/dodoturkoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
